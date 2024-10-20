@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Faites-le bouillir, faites-le frire, jetez-le à une mariée. Le riz ! Pour tous vos besoin culinaires."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Graines de Riz"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Le riz. Un excellent atout pour un bon repas."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Le riz, une délicieuse collation à picorer"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran prépare le riz comme un joli plat d'accompagnement avec des cœursss bouillis."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Amusé. Un Glitch a réussi une fois sa carrière en l'utilisant comme percussion."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Le riz. Bon quand vous avez faim et que vous voulez manger des milliers d'une même chose"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Le riz. Dégustation fade mais une base pour un simple repas."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Le riz est bon de temps en temps. Parfait avec du piment !"
+  }
+]

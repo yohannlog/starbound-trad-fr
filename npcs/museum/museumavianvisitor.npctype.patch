@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default/0", "value": "C'est une collection incroyable ! Comment avez-vous fait pour tout avoir ?"}, {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "C'est une collection incroyable ! Comment avez-vous fait pour tout avoir ?"}]

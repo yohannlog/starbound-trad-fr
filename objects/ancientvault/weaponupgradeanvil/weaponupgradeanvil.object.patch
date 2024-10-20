@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Enclume d'Amélioration d'Armes"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Cette enclume fonctionne, je me demande qui sont les êtres qui l'ont fabriqué."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Cette enclume est ancien d'origine."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran appuie sssur le bouton. Quelque chossse cce passse!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Impressionné. Les applications techniques de cette enclume sont aussi avancées qu'anciennes."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Une enclume faite pour résister à l'épreuve du temps."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Cette enclume semble extrêmement vieille."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Cette enclume semble ancienne..."
+  }
+]

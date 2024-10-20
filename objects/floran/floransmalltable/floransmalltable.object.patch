@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Une table façonné à l'aide d'un petit arbre avec une dalle de bois au dessus."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Petite Table Primitive"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Une table construite à partir d'un jeune arbre. La plus simple des créations."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Le Floran construit des meubles à partir de restes d'animaux et de plante."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran fabrique des tables avec des arbres."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Douloureux. La base de la table provient d'un arbuste."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "La base de cette table ressemble beaucoup à un petit arbre."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Le Floran semble avoir façonné "
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Une ingénieuse utilisation des arbres !"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "op": "replace",
+    "path": "/parts/core/displayName",
+    "value": "Noyau Central"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/core/description",
+    "value": "Une salle carrée avec des modules d'expansion dans 4 directions."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/corehuge/displayName",
+    "value": "Grand Noyau Central"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/corehuge/description",
+    "value": "Une immense pièce vide avec des modules d'expansions dans 4 directions."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cross/displayName",
+    "value": "Croisement"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cross/description",
+    "value": "Une pièce en forme de croix avec des modules d'expansions dans 4 directions."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNESW/displayName",
+    "value": "Coin Croisé N-E & S-O"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNESW/description",
+    "value": "Une salle composée de deux tunnels non connectés, avec des modules d'expansions de chaque côtés."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNWSE/displayName",
+    "value": "Coin Croisé N-W & S-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNWSE/description",
+    "value": "Une salle composée de deux tunnels non connectés, avec des modules d'expansions de chaque côtés."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passage/displayName",
+    "value": "Couloir Horizontal"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passage/description",
+    "value": "Un couloir avec un module d'expansion aux deux extrémités."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passageglass/displayName",
+    "value": "Grand Couloir Horizontal"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passageglass/description",
+    "value": "Un long couloir de verre horizontal traversé par un rail. Il y a des modules d'extension aux deux extrémités."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaft/displayName",
+    "value": "Couloir Vertical"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaft/description",
+    "value": "Un couloir vertical avec deux modules d’extension aux deux extrémités."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaftglass/displayName",
+    "value": "Grand Couloir Vertical"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaftglass/description",
+    "value": "Un long couloir vertical traversée par un rail. Il y a des modules d'extensions aux extremités."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNE/displayName",
+    "value": "Coin N-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNE/description",
+    "value": "Un passage en forme de coin, avec des modules d'exptensions orientées Nord et Est."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNW/displayName",
+    "value": "Coin N-O"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNW/description",
+    "value": "Un passage en forme de coin, avec des modules d'expansion orientés Nord et Ouest."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSW/displayName",
+    "value": "Coin S-O"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSW/description",
+    "value": "Un passage en forme de coin, avec des modules d'expansion orientés Sud et Ouest."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSE/displayName",
+    "value": "Coin S-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSE/description",
+    "value": "Un passage en forme de coin, avec des modules d'expansion orientés Sud et Est."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNWE/displayName",
+    "value": "Jonction T N-O-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNWE/description",
+    "value": "Une jonction en forme de T avec des modules d'extension dans 3 directions."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSE/displayName",
+    "value": "Jonction T N-S-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSE/description",
+    "value": "Une jonction en forme de T avec des modules d'extension dans 3 directions."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSW/displayName",
+    "value": "Jonction N-S-O"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSW/description",
+    "value": "Une jonction en forme de T avec des modules d'extension dans 3 directions."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncSWE/displayName",
+    "value": "Jonction T S-O-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncSWE/description",
+    "value": "Une jonction en forme de T avec des modules d'extension dans 3 directions."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechassembly/displayName",
+    "value": "Salle d'Assemblage Méchas"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechassembly/description",
+    "value": "Un couloir avec une station de fabrication de méchas."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechbayL/displayName",
+    "value": "Entrée Mécha Ouest"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechbayL/description",
+    "value": "Une entrée orientée à l'ouest, adapté à l’atterrissage de méchas."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechbayR/displayName",
+    "value": "Entrée Mécha Est"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechbayR/description",
+    "value": "Une entrée orientée à l'est, adapté à l’atterrissage de méchas."
+  }
+]

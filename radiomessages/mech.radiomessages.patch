@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/biomeradiation_mech/text",
+    "value": "ATTENTION: votre véhicule n'est pas certifié pour cet environnement!\nLe non-respect de cet avertissement peut entrainer la mort du pilote et / ou l'annulation de la garantie du véhicule."
+  },
+  {
+    "op": "replace",
+    "path": "/biomeradiation_mech/textSpeed",
+    "value": 50
+  },
+  {
+    "op": "replace",
+    "path": "/biomecold_mech/text",
+    "value": "ATTENTION: votre véhicule n'est pas certifié pour cet environnement!\nLe non-respect de cet avertissement peut entrainer la mort du pilote et / ou l'annulation de la garantie du véhicule."
+  },
+  {
+    "op": "replace",
+    "path": "/biomecold_mech/textSpeed",
+    "value": 50
+  },
+  {
+    "op": "replace",
+    "path": "/biomeheat_mech/text",
+    "value": "ATTENTION: votre véhicule n'est pas certifié pour cet environnement!\nLe non-respect de cet avertissement peut entrainer la mort du pilote et / ou l'annulation de la garantie du véhicule."
+  },
+  {
+    "op": "replace",
+    "path": "/biomeheat_mech/textSpeed",
+    "value": 50
+  },
+  {
+    "op": "replace",
+    "path": "/lava_mech/text",
+    "value": "DANGER! Les systèmes de contrôle de la température de votre mech sont en panne! Evacuez immédiatement!"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "test",
+    "path": "/text",
+    "value": "I should find out what this party is all about. A Floran party sounds fun."
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Je dois savoir ce qu'est cette partie. C'est une partie de Floran bien amusante.."
+  },
+  {
+    "op": "test",
+    "path": "/completionText",
+    "value": "That wasn't the party I was expecting. The invitation was, in fact, for an ancient traditional Floran Hunt. ^green;That ^orange;Floran hunter^green; at the outpost better have a good explanation for this."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Ce ne fut pas la partie que j'attendais. L'invitation est, en fait, une ancienne tradition de Floran. Le Floran de l'avant-poste doit avoir une meilleur explication pour moi."
+  },
+  {
+    "op": "test",
+    "path": "/title",
+    "value": "^orange;It's Party Time"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^orange;C'est l'heure de jouer"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Qui sait ce qu'il pourrait activer... Appuyez simplement dessus."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Petit Bouton Mural"
+  }
+]

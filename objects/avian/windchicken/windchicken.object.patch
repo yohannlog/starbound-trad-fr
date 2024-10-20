@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/shortdescription", "value": "Girouette"}, {"op": "replace", "path": "/humanDescription", "value": "C'est une girouette !"}, {"op": "replace", "path": "/novakidDescription", "value": "Aujourd'hui n'est pas un jour de grand vent."}]

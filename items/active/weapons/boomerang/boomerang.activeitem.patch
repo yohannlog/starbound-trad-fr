@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/upgradeParameters/shortdescription", "value": "Boomerang ^jaune;\ue024^reset; "}, {"op": "replace", "path": "/shortdescription", "value": "Boomerang"}, {"op": "replace", "path": "/description", "value": "Des micropropulseurs de pointe garantissant qu'il tournera toujours."}]

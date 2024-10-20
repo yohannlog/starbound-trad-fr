@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Un bloc de glace."}, {"op": "replace", "path": "/shortdescription", "value": "Un bloc de glace."}, {"op": "replace", "path": "/floranDescription", "value": "Glace froide !"}, {"op": "replace", "path": "/glitchDescription", "value": "Affirmation. Un bloc de glace."}]

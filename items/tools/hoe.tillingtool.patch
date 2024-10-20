@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Cette b\u00eache me permet de pr\u00e9parer le sol. Il peut \u00eatre utilis\u00e9 ensuite pour cultiver toutes sortes de graines !"}, {"op": "replace", "path": "/shortdescription", "value": "^orange;B\u00eache^white;"}]

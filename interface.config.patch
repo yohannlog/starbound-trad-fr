@@ -1,0 +1,21 @@
+[{"op": "replace", "path": "/modsWarningMessage", "value": "Installation et d\u00e9sinstallation de mods peut corrompre vos fichiers de sauvegarde, vous pouvez sauvegarder le r\u00e9pertoire \"storage\" avant de continuer."}, {"op": "replace", "path": "/cursorTooltip/mmUpgradeText", "value": "Am\u00e9lioration M.M."}, {"op": "replace", "path": "/cursorTooltip/collectionsText", "value": "Collections"}, {"op": "replace", "path": "/escapeDialog/saveAndQuit/caption", "value": "Sauv. & Quitter"}, {"op": "replace", "path": "/escapeDialog/showOptions/caption", "value": "Options"}, {"op": "replace", "path": "/escapeDialog/returnToGame/caption", "value": "Retour au jeu"}, {"op": "replace", "path": "/escapeDialog/lblcopyright/value", "value": "Chucklefish Games 2016 - Developpe \u00e0 Londres, UK"}, {"op": "replace", "path": "/cursorTooltip/craftingText", "value": "Fabrication"}, {"op": "replace", "path": "/cursorTooltip/inventoryText", "value": "Inventaire"}, {"op": "replace", "path": "/cursorTooltip/beamUpText", "value": "Remonter"}, {"op": "replace", "path": "/cursorTooltip/questsText", "value": "Qu\u00eates"}, {"op": "replace", "path": "/cursorTooltip/codexText", "value": "Codex"}, {"op": "replace", "path": "/cursorTooltip/beamDownText", "value": "Descendre"}, {"op": "replace", "path": "/cursorTooltip/disabledText", "value": "D\u00e9sactiv\u00e9"}, {"op": "replace", "path": "/largeCharPlate/modeText", "value": "Difficult\u00e9: "}, {"op": "replace", "path": "/largeCharPlate/noPlayerText", "value": "Cr\u00e9ation de personnage"}, {
+    "op": "replace",
+    "path": "/cursorTooltip/deployText",
+    "value": "Deployer Mecha"
+  },
+  {
+    "op": "replace",
+    "path": "/modeTypeTextAndColor/1/0",
+    "value": "Facile"
+  },
+  {
+    "op": "replace",
+    "path": "/modeTypeTextAndColor/2/0",
+    "value": "Survie"
+  },{
+    "op": "replace",
+    "path": "/largeCharPlate/modeOffset/0",
+    "value": 99
+  }
+
+]

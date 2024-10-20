@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/message", "value": "Quitter la mission va remettre \u00e0 z\u00e9ro votre progression pour cette zone. \u00cates-vous s\u00fbr de vouloir vous t\u00e9l\u00e9porter ?"}, {"op": "replace", "path": "/title", "value": "Quitter la mission"}, {"op": "replace", "path": "/subtitle", "value": "Se t\u00e9l\u00e9porter au vaisseau"}]

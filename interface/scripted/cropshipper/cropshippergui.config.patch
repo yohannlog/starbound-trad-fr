@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/lblMoneyLabel/value", "value": "VALEUR TOTALE"}, {"op": "replace", "path": "/gui/btnShip/caption", "value": "Vaisseau"}, {"op": "replace", "path": "/gui/count/value", "value": "40 EMPLACEMENTS"}]

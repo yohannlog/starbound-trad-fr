@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/defaultItemConfig/category",
+    "value": "codex"
+  },
+  {
+    "op": "replace",
+    "path": "/messages/alreadyKnown",
+    "value": "Codex d\u00e9j\u00e0 connu."
+  },
+  {
+    "op": "replace",
+    "path": "/messages/learned",
+    "value": "Codex ajout\u00e9 au journal!"
+  }
+]

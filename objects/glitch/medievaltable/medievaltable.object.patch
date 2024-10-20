@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/humanDescription", "value": "Cette table est en mauvais \u00e9tat."}, {"op": "replace", "path": "/avianDescription", "value": "Une table d'une qualit\u00e9 m\u00e9diocre."}, {"op": "replace", "path": "/shortdescription", "value": "Table M\u00e9di\u00e9vale"}]

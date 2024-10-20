@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "C'est une pointe"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Petite Pointe au Sol"
+  }
+]

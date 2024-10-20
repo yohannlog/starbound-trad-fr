@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0", "value": "Je travaille sur l'efficacit\u00e9 du r\u00e9servoir de carburant!"}, {"op": "replace", "path": "/scriptConfig/dialog/crewmember/shipImprovementApplied/default/default/0", "value": "C'est fait!Am\u00e9lior\u00e9 de 10% en plus!Je travaille toujours dessus!"}]

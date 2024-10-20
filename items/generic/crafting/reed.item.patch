@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un tas de roseaux coupés."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Roseau"
+  }
+]

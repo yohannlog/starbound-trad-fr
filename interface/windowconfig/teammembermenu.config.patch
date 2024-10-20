@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/paneLayout/beamToShip/caption", "value": "Retourner au vaisseau"}, {"op": "replace", "path": "/paneLayout/removeFromTeam/caption", "value": "Expulser"}, {"op": "replace", "path": "/paneLayout/makeLeader/caption", "value": "Mettre leader"}]

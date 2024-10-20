@@ -1,0 +1,32 @@
+[
+  {
+    "op": "test",
+    "path": "/text",
+    "value": "Hi there, would you be interested in a Sparrow class ship license. It's not exactly what you'd call... legit. But your software should accept it and allow you to upgrade your ship. ^green;Bring me ^orange;two diamonds ^green;and it's yours!"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Bonjour, vous \u00eates int\u00e9ress\u00e9 par une licence de vaisseau. Il n'est pas exactement ce que vous appelleriez...r\u00e9glo. Mais votre logiciel devrait l'accepter et vous permettre d'am\u00e9liorer votre vaisseau. Amenez-moi ^orange; 2 diamants ^green; et il sera pour vous."
+  },
+  {
+    "op": "test",
+    "path": "/completionText",
+    "value": "We have a deal! Enjoy the license! Talk to your S.A.I.L to get upgrading! Help out enough around here and I might offer you something better."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Nous avons un accord! Profitez de la licence! Parlez \u00e0 votre S.A.I.L pour obtenir l'am\u00e9lioration! Aidez encore et vous pourrez avoir mieux."
+  },
+  {
+    "op": "test",
+    "path": "/title",
+    "value": "^green;Psst"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^green;Psst"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un présentoir pour les petits fossiles"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "Vitrine à Fossiles"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Petit Présentoir à Fossile"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Un présentoir. Utilisé pour les fossiles."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Un présentoir pour fossiles. Mais il n'y en a pas."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Présssentoir vide ? Ou est le fosssile ?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Intéressé. Un fossile peut-être exposé ici."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "On se sent un peu triste de ne voir aucun fossile à l'intérieur."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Je suis plus intéressé quand il y a un fossile à l'intérieur."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Cela semble bon... Ce serait mieux si il y avait un fossile..."
+  }
+]

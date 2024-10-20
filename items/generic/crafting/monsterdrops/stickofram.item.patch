@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un composant universel de l'ordinateur. Peut-être utilisé pour la fabrication."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Barrette de RAM"
+  }
+]

@@ -1,0 +1,27 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/4/1",
+    "value": "^green;Extrémement bien préservé^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/3/1",
+    "value": "^green;Reste frais pendant encore longtemps^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/2/1",
+    "value": "^yellow;Va bientôt commencer à pourrir^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/1/1",
+    "value": "^orange;Commence à pourrir^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/0/1",
+    "value": "^red;Presque trop pourri pour manger^reset;"
+  }
+]

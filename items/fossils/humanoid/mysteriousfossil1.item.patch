@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Fossile Non Identifié"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Une créature ou sont âge et son origine ne peuvent-être déterminés."
+  }
+]

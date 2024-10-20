@@ -1,0 +1,32 @@
+[
+  {
+    "op": "test",
+    "path": "/text",
+    "value": "I am opening a public Observatory! I still need to find a few decorations to make it look authentic. ^green;Could you find me ^orange;a Globe from a Glitch village ^white;that I can decorate with?"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "J'ouvre un observatoire public! Je dois encore trouver quelques d\u00e9corations pour le faire para\u00eetre authentique. ^green; Pouvez-vous me trouver ^ d'orange, un Globe d'un village de Glitch ^white, qui je va me permettre de d\u00e9corer ?"
+  },
+  {
+    "op": "test",
+    "path": "/completionText",
+    "value": "Ah yes! Thank you. This will look great in my Observatory! Have some pixels and this manipulator module as gratitude."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Ah oui! Je vous remercie. Ceci semblera grand dans mon Conservatoire! Je vous donne quelques pixels et ce module de manipulateur pour votre gratitude."
+  },
+  {
+    "op": "test",
+    "path": "/title",
+    "value": "^green;Pale Blue Dot"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^green;Point Bleu P\u00e2le"
+  }
+]

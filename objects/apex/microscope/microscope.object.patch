@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Tout semble plus terrifiant dans un microscope."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ce sont des cellules Apex?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Les Avians ont un dispositif similaire pour scruter la distance avec orécision."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Délicccieuse ccellules de chair.."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Triste. Les cellules sous cet appareil sont mortes depuis longtemps."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Je ne sais pas ce que je vois."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Les cellules Apex ici présent sont remarquablement identique aux cellules d'humains."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Un petit dispositif pour voir de petites choses avec plus de clarté."
+  }
+]

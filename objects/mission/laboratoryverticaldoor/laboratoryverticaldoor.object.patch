@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Porte de Laboratoire Verticale"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Cette trappe ressemble à une création du Miniknog. Il le donne des frissons."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Une trappe très bien construite."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran détessste les portess brillante."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Critique. Cette trappe est faite d'un métal blanc lisse."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Une porte qui se divise en trois parties lors de l'ouverture. Soigné !"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Une porte plutôt élegante qui se divise en trois pour s'ouvrir."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Une porte utile pour un laboratoire, je parierais !"
+  }
+]

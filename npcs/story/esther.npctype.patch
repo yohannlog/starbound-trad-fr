@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0", "value": "Je suis ici quand vous avez besoin de moi, mon cher. Notamment si vous voulez un Humbug \u00e0 la menthe."}, {"op": "replace", "path": "/scriptConfig/dialog/arkOpened/default/default/0", "value": "L'Arche est ouverte ! Vous savez-ce que qui vous attend, mon cher."}]

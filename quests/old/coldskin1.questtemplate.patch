@@ -1,0 +1,32 @@
+[
+  {
+    "op": "test",
+    "path": "/text",
+    "value": "Floran would like to know if you like to visssit Floran... Party? Floran will give you coordinates if you prove to Floran you are tough enough. ^green;Show Floran ssome ^orange;Durassteel armour ^green;and Floran will tell you where to go."
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Floran voudrait savoir sssi vous aimeriez allez \u00e0 une partie de... Floran? Floran vous donnera les coordonn\u00e9es que si vous av\u00e9rez \u00e0 Floran que vous \u00eates fort.^green;Montrez \u00e0 Floran une ^orange; armure en duracier ^green; et Floran vous dira o\u00f9 aller."
+  },
+  {
+    "op": "test",
+    "path": "/completionText",
+    "value": "Nice ssstrong armour. You'll make for an ssstrong competitor at the... Party."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Une armure forte agr\u00e9able. Vous ferez un concurrent parfait pour la partie."
+  },
+  {
+    "op": "test",
+    "path": "/title",
+    "value": "^orange;An Invitation"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^orange;Une invitation..."
+  }
+]

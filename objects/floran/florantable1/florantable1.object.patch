@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Floran se rassemble sur des tables comme celle-ci pour manger un ragoût de chair."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Table Primitive"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Une table Floran. Peut-être qu'ils mangent sur celle-là ?."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Une simple table Floran"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran crée des meubles. Attacher avec du bois et des cordes."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Mise en garde. Si la corde s'use, la table s'effondrera."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "On dirait que la table est maintenue avec une corde.."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "La plus simple des tables. Un enfant Hylotl construit mieux que ça."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Il n'y a rien de mal avec une table aussi simple."
+  }
+]

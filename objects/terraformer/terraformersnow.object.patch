@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Transforme le climat de la planète en une taïga froide."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Terraformer Neigeux"
+  }
+]

@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Une fleur putride horrible."}, {"op": "replace", "path": "/shortdescription", "value": "Fleur putride."}, {"op": "replace", "path": "/humanDescription", "value": "Cette fleur sens mauvais!"}, {"op": "replace", "path": "/avianDescription", "value": "Cette fleur sens mauvais."}]

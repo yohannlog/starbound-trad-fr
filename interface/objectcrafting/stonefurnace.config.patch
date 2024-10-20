@@ -1,0 +1,72 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/inventoryText",
+    "value": "Inventaire"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/craftingText",
+    "value": "Fabriquer"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/codexText",
+    "value": "Librairie"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/beamUpText",
+    "value": "Monter"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/beamDownText",
+    "value": "Descendre"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/disabledText",
+    "value": "Désactivé"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/questsText",
+    "value": "Quêtes"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/mmUpgradeText",
+    "value": "M.M. Améliorations"
+  },
+    {
+    "op": "replace",
+    "path": "/largeCharPlate/modeText",
+    "value": "TYPE:"
+  },
+    {
+    "op": "replace",
+    "path": "/largeCharPlate/noPlayerText",
+    "value": "CRÉER PERSONNAGE"
+  },
+    {
+    "op": "replace",
+    "path": "/escapeDialog/returnToGame/caption",
+    "value": "Retour au Jeu"
+  },
+    {
+    "op": "replace",
+    "path": "/escapeDialog/showOptions/caption",
+    "value": "Options"
+  },
+  {
+    "op": "replace",
+    "path": "/escapeDialog/saveAndQuit/caption",
+    "value": "Sauv. & Quitter"
+  },
+  {
+    "op": "replace",
+    "path": "/escapeDialog/lblcopyright/value",
+    "value": "Chuckefish Games 2016 - Édité à Londre, UK"
+  }
+]

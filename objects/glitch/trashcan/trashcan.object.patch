@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Une poubelle. Une charge d'ordures."}, {"op": "replace", "path": "/shortdescription", "value": "Poubelle"}, {"op": "replace", "path": "/avianDescription", "value": "Un conteneur pour d\u00e9poser des d\u00e9chets."}, {"op": "replace", "path": "/novakidDescription", "value": "Rien d'utile ici, c'est juste une poubelle."}]

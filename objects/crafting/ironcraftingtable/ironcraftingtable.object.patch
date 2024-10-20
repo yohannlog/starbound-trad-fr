@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/interactData/paneLayoutOverride/windowtitle/title", "value": "Table d'Artisanat en Fer"}, {"op": "replace", "path": "/floranDescription", "value": "Une table d'artissanat en fer pour fabriquer des chossses."}, {"op": "replace", "path": "/shortdescription", "value": "^orange;Table de Fabrication en Fer^white;"}]

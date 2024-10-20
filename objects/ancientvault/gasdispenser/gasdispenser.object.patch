@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un distributeur de gaz"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Distributeur de Gaz"
+  }
+]

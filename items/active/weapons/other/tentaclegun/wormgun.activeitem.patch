@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Cette arme \u00e0 feu contient une masse tortillante de vers \u00e9trangers qui ont mut\u00e9s."}, {"op": "replace", "path": "/shortdescription", "value": "Arme \u00e0 feu \u00e9trang\u00e8re de ver"}, {"op": "replace", "path": "/altAbility/name", "value": "\u00c9clat de tentacule"}]

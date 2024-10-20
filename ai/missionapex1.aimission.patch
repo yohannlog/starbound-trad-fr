@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/speciesText/default/buttonText", "value": "Le Bastion Miniknog"}, {"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Esther a conclu que les fondations du Manoir abritent l'Art\u00e9fact Apex."}, {"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Re-visiter le Bastion Miniknog"}]

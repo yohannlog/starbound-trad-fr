@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Des ombres s'étendent loin de cette torche menaçante."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Support de Crâne Lumineux"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Cette torche morbide fournit de la chaleur ainsi que de la lumière."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Une torche plutôt horrible, si je puis dire..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Visage brûlant!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Inconfortable. Je crois que c'est un vrai crâne."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Un crâne avec des flammes en guise de cheveux ! Cool !"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Qui utiliserait les morts comme ceci ?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Bonjour, mon amis."
+  }
+]

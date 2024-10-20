@@ -1,0 +1,902 @@
+[
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "Toi encore !!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "value": "Tu es revenu !"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/3",
+    "value": "Tu es revenu ?"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/4",
+    "value": "Alors, tu est revenu."
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/0",
+    "value": "Irrité. Vous allez regretter d'être revenu."
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/1",
+    "value": "Agressif. Cette fois, vous ne m'échapperez pas.."
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/2",
+    "value": "Sans peur. Je suis prêt à te battre une fois de plus!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/3",
+    "value": "En colère. Comment osez-vous revenir!?"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/4",
+    "value": "Passionné. Vous êtes revenu pour être vaincu!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/0",
+    "value": "Floran furieux..Tu est revenu!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/1",
+    "value": "Bonjour à nouveau, proie"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/2",
+    "value": "Tu es revenu!?"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/3",
+    "value": "Floran va te ssstoper cette fois!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/4",
+    "value": "La proie est revenue!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Attaquer!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/0",
+    "value": "Hostile!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/1",
+    "value": "Attaque Hostile!"
+  },
+  {
+    "op": "remove",
+    "path": "/attack/apex/default/2"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/3",
+    "value": "Activité Hostile!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/4",
+    "value": "Enemie engagé!"
+  },
+  {
+    "op": "remove",
+    "path": "/attack/apex/default/5"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/0",
+    "value": "Sssuper!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/1",
+    "value": "Il est temps de poignarder! Il est temps de tirer!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/2",
+    "value": "Chasse la proie!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/3",
+    "value": "Trouve le!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/4",
+    "value": "Poignarde-le! Tire lui dessus!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/5",
+    "value": "Attrape-le! Mange-le!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/6",
+    "value": "Floran chasse!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/0",
+    "value": "Excité. Un ennemi!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/1",
+    "value": "Calme. Je ne serai pas facilement vaincu."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/2",
+    "value": "Audacieux. Se battre."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/3",
+    "value": "Courageux. Je vais vaincre cet ennemi!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/4",
+    "value": "Désireux. Vous avez respiré votre dernière fois!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/5",
+    "value": "Agressif. Préparez-vous à perdre votre vie!"
+  },
+  {
+    "op": "remove",
+    "path": "/attack/glitch/default/6"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/0",
+    "value": "Il y a de l'honneur dans la bataille."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/1",
+    "value": "Commence la danse de guerre!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/2",
+    "value": "Je brandis la puissance de la tempête!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/3",
+    "value": "Tu ferais mieux de combattre le tourbillon que de me battre."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/4",
+    "value": "Je frapperai comme un éclair!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/5",
+    "value": "Je vais faire pleuvoir un torrent sur toi."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/6",
+    "value": "Je vais me battre avec honneur!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/floran/0",
+    "value": "Je vais me venger de mes ancêtres!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/floran/1",
+    "value": "Je me suis entraîné pour combattre Floran!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/floran/2",
+    "value": "Je vais vaincre le barbare Floran et honorer mes ancêtres!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/0",
+    "value": "Tu es une viande morte!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/1",
+    "value": "Finissons-en!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/2",
+    "value": "Vous n'avez aucune chance de flocons de neige sur une planète magma!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/3",
+    "value": "Je ne suis pas vraiment un combattant..."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/5",
+    "value": "Je ne descends pas si facilement!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/6",
+    "value": "Comment puis-je continuer à me retrouver dans des situations comme celle-ci?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/7",
+    "value": "Finissons-en..."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/8",
+    "value": "Soyez averti, je me suis battu!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/9",
+    "value": "Faisons cela!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/10",
+    "value": "Vous ne saurez pas ce qui vous a frappé!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/0",
+    "value": "Il est temps pour une confrontation à l'ancienne!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/1",
+    "value": "Yee-Haw, c'est parti!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/2",
+    "value": "roulons!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/3",
+    "value": "Tu te sens chanceux, punk?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/4",
+    "value": "Temps pour un chahut!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/5",
+    "value": "Remplis tes mains!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/6",
+    "value": "Si vous cherchez des ennuis, alors je suis votre airelle!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/7",
+    "value": "Je n'ai pas le temps pour ça!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/8",
+    "value": "Je suis plus efficace que toi, mon ami!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/9",
+    "value": "Ce n'est pas mon premier rodéo!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/11",
+    "value": "Nous ne voulons pas de problèmes ici!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "Ne plaisante pas avec moi!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/1",
+    "value": "Victoire!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/3",
+    "value": "Une autre victoire!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/4",
+    "value": "Je n'ai même pas transpiré!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/6",
+    "value": "Bien sûr j'ai gagné!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/7",
+    "value": "Je suis assez bon à ça!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/8",
+    "value": "C'était stressant..."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/9",
+    "value": "Une autre victoire facile!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/10",
+    "value": "Oui!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/11",
+    "value": "C'est ce que tu as!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/0",
+    "value": "Ne jamais défier un Avian"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/1",
+    "value": "Vous ne vaincrez jamais un vrai guerrier."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/2",
+    "value": "Mes antagonistes sont si facilement maîtrisés..."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/3",
+    "value": "Je suis né pour gagner cette bataille."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/4",
+    "value": "Je n'ai même pas perdu une plume."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/5",
+    "value": "C'est la conséquence d'avoir engager un Avian dans la bataille."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/6",
+    "value": "Un effort respectable de leur part."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/7",
+    "value": "Travail facile."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/0",
+    "value": "Cible maîtrisée."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/1",
+    "value": "Zone sécurisée."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/2",
+    "value": "Problème résolu."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/3",
+    "value": "Il est si peu judicieux de jouer avec un Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/4",
+    "value": "Menace neutralisée."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/5",
+    "value": "L'ennemi a été traité."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/6",
+    "value": "Cible expédiée."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/7",
+    "value": "Terminé. Je pense avoir gagné une banane."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/8",
+    "value": "La cible a été neutralisée!"
+  },
+  {
+    "op": "remove",
+    "path": "/killedTarget/apex/default/9"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/0",
+    "value": "La bataille est finie..."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/1",
+    "value": "Ce qui est fait est fait."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/2",
+    "value": "Maintenant que j'ai vaincu mon ennemi, je dois réfléchir à cette bataille."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/3",
+    "value": "Une victoire honorable."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/4",
+    "value": "Une noble victoire dans la défense de ma culture."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/5",
+    "value": "C'est fait."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/6",
+    "value": "J'ai servi mon peuple."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/0",
+    "value": "Satisfait. Une autre victoire!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/1",
+    "value": "Gratifié. Un autre travail bien fait."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/2",
+    "value": "Excité. C'était exaltant!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/3",
+    "value": "Épuisé. J'ai besoin de faire plus d'exercice."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/4",
+    "value": "Heureux. Quel triomphe."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/5",
+    "value": "Content. Une merveilleuse victoire!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/6",
+    "value": "Fier. Quelle excellente démonstration de mes propres compétences."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/0",
+    "value": "C'était amusant. Que devrait faire Floran maintenant ?"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/1",
+    "value": "Floran est le meilleur chassseur de l'hisstoire!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/2",
+    "value": "Maintenant Flora n'a plus rien à faire..."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/3",
+    "value": "Floran gagne!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/4",
+    "value": "Floran est le meilleur!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/5",
+    "value": "C'était amusant!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/6",
+    "value": "Je l'ai fait!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/7",
+    "value": "Floran a apprécié cela."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/0",
+    "value": "J'ai besoin d'un verre de racine après tout cela"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/1",
+    "value": "Je suis un gagnant au combat, que puis-je dire ?"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/2",
+    "value": "Eh bien, n'était-ce pas un bon vieux rodéo ?"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/3",
+    "value": "Yee-haw! C'était quelque chose."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "Je t'aurai un jour !"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "value": "Ce n'est pas fini !"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/2",
+    "value": "Ne reviens pas !"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/3",
+    "value": "Ou est-tu..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/4",
+    "value": "Quelle galère."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/5",
+    "value": "Je t'attendrai!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/0",
+    "value": "Embarrassé. J'ai perdu mon adversaire..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/1",
+    "value": "Réfléchi. Qu'est-ce que je fais de ma vie ?"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/2",
+    "value": "Ennuyé. Maintenant qu'est-ce que je vais faire ?"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/3",
+    "value": "Aigre. Bon débarras."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/4",
+    "value": "Optimiste. Euh ... Reviens ?"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/0",
+    "value": "Floran ira chassser autre chosse"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/1",
+    "value": "Quand ils reviendront, ils auront un coup de couteau..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/2",
+    "value": "Floran trouvera quelqu'un d'autre à chasser."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/3",
+    "value": "Floran n'a pas abandonné. Juste pas sûr de ce qu'il va faire ensuite..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/4",
+    "value": "Floran affamé ... peut-être que la proie revient."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "value": "Sournois! C'est sournois! Comment as-tu disparu ?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/1",
+    "value": "Il s'en va!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/2",
+    "value": "Où irais-tu ?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/3",
+    "value": "Reviens ici!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/4",
+    "value": "Comment est-ce arrivé ?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/0",
+    "value": "Patient. atient. Je vais attendre ici jusqu'à ce que tu reviennes."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/1",
+    "value": "Frustré. Je sais que tu es ici quelque part !"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/2",
+    "value": "Confus. Où sont-ils allés ?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/3",
+    "value": "Incertain. Est-ce que je ne combattais pas quelqu'un il y a une seconde?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/4",
+    "value": "Furieux. Comment as-tu disparu !?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/0",
+    "value": "Floran est un bon chassseur! La proie ne restera pas caché longtemps !"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/1",
+    "value": "Floral sssent toujours la proie !"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/2",
+    "value": "Une proie rusée se cache !"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/3",
+    "value": "... Floran ne te trouve pas."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/4",
+    "value": "Où est cette chose sournoise ?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "value": "Viens ici !"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/1",
+    "value": "Venez ici !"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/2",
+    "value": "Reviens ici !"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/3",
+    "value": "Comment es-tu arrivé là-bas ?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/4",
+    "value": "Je ne peux pas atteindre !"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/0",
+    "value": "Irrité. Ils sont hors de ma portée !"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/1",
+    "value": "Fâché. Venez ici !"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/2",
+    "value": "Frustré. Pourquoi n'ai-je pas apporté une arbalète ?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/3",
+    "value": "Renfrogné. Comment pouvons-nous nous battre si je ne peux pas vous atteindre ?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/4",
+    "value": "Furieux. Viens plus près pour qu'on puisse se battre !"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/0",
+    "value": "Ils sont trop loin pour être tabasssés !"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/1",
+    "value": "Floran ne peut pas atteindre !"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/2",
+    "value": "Rapproche toi !"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/3",
+    "value": "Une proie sssuculante est hors de portée!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/4",
+    "value": "Floran pas asssez proche!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "value": "J'ai un plan !"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/1",
+    "value": "Attrape les!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/2",
+    "value": "Tout le monde est sur mon chemin."
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/3",
+    "value": "Pourquoi ne sont-ils pas déjà morts ?"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/4",
+    "value": "Allons !"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/0",
+    "value": "Excité. Allons le frapper !"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/1",
+    "value": "Dominant. Attrape le !"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/2",
+    "value": "Enthousiaste. Obtenez l'ennemi!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/3",
+    "value": "Incitation. Pourquoi cet ennemi n'est-il pas déjà mort ?"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/4",
+    "value": "Égoïste. Je veux le tuer !"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default/0",
+    "value": "Gardes-en pour moi!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default/1",
+    "value": "Attrape la proie !"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default/2",
+    "value": "Trouver!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default/3",
+    "value": "Floran excité!"
+  },
+  {
+    "op": "remove",
+    "path": "/cheerOn/floran/default/4"
+  }
+]

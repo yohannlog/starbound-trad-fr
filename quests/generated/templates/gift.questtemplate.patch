@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/scriptConfig/addToHouseObjective/text", "value": "placez <gift> dans la maison de <target>"}, {"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Donnez <gift> \u00e0 <target>"}]

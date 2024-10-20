@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Inspecte le monde qui vous entoure.^green; La touche rapide est [N]."}, {"op": "replace", "path": "/shortdescription", "value": "Mode Inspection"}]

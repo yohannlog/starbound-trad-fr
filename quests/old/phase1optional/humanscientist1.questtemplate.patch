@@ -1,0 +1,32 @@
+[
+  {
+    "op": "test",
+    "path": "/text",
+    "value": "I hate finding bugs! Can you help me find some? If you can ^orange;catch a bug ^green;for me in a bug net^white;, I'll give you a manipulator module I found."
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Je d\u00e9teste chercher des papillons! Peux-tu m'aider \u00e0 en trouver? Si tu en ^orange;capture un pour moi ^green;dans un filet \u00e0 papillons^white;, Je vais vous donner un module pour ton manipulateur que j'ai trouv\u00e9."
+  },
+  {
+    "op": "test",
+    "path": "/completionText",
+    "value": "One step closer to a universe without bugs! Here's the manipulator module, as promised. I'm sure you'll find it useful."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Un pas de plus vers un univers sans papillons! Voici le module pour ton manipulateur comme promis. Vous trouverez cela utile."
+  },
+  {
+    "op": "test",
+    "path": "/title",
+    "value": "^green;Bug Hunt"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^green;Chasse aux Papillons"
+  }
+]

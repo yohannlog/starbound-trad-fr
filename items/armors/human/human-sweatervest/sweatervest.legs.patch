@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Modérément confortable, assez facile à porter."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Short"
+  }
+]

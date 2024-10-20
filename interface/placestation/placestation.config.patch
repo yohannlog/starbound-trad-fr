@@ -1,0 +1,82 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "Configuration du Transpondeur de la Station"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "^#b9b5b2;Configurez et lancez la sonde de déploiement de votre station"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/connectingLabel/value",
+    "value": "Connection au S.A.I.L..."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/configure/children/name/hint",
+    "value": "Nom de la Station"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/configure/children/description/hint",
+    "value": "Entrer la description de la station"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/configure/children/saveButton/caption",
+    "value": "SAUVEGARDER"
+  },
+  {
+    "op": "replace",
+    "path": "/connect/connectText",
+    "value": "^green;Connection au S.A.I.L"
+  },
+  {
+    "op": "replace",
+    "path": "/connect/failText",
+    "value": "^red;Impossible d'établir une connexion avec le S.A.I.L\nVeuillez réessayez dans votre vaisseau."
+  },
+  {
+    "op": "replace",
+    "path": "/connect/successText",
+    "value": "^green;Connexion haut débit établie\nTransfert de données système"
+  },
+  {
+    "op": "replace",
+    "path": "/connectedText",
+    "value": "^green;Lien établi"
+  },
+  {
+    "op": "replace",
+    "path": "/deployingText/dispatching",
+    "value": "^green;Demande d'envoi d'une sonde"
+  },
+  {
+    "op": "replace",
+    "path": "/deployingText/traveling",
+    "value": "^green;Sonde expédiée.\nSonde approchant de l'orbite cible"
+  },
+  {
+    "op": "replace",
+    "path": "/deployingText/deploying",
+    "value": "^green;La sonde a atteint l'orbite cible.\nDéploiement de la station"
+  },
+  {
+    "op": "replace",
+    "path": "/deployingText/deployed",
+    "value": "^green;Station déployée"
+  },
+  {
+    "op": "replace",
+    "path": "/deployingText/error",
+    "value": "Erreur lors du déploiement de la sonde. \nConnection perdue..."
+  },
+  {
+    "op": "replace",
+    "path": "/nameLabel",
+    "value": "nom > "
+  }
+]

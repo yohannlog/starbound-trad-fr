@@ -1,0 +1,32 @@
+[
+  {
+    "op": "test",
+    "path": "/text",
+    "value": "Do you like my clothesss? I love human clothing! ^green;If you bring me a ^orange;cool jacket ^green;I'll give you ssssomething nice!"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Aimez-vous mes habits? J'adore les v\u00eatements humain! ^green;Si vous m'apportez une ^orange;veste cool ^green;je vous donnerai quelque chose de bien!"
+  },
+  {
+    "op": "test",
+    "path": "/completionText",
+    "value": "It'sss awessome! Floran ssso cool! Here you go!"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "C'est g\u00e9nial! Floran tellement cool! Tenez!"
+  },
+  {
+    "op": "test",
+    "path": "/title",
+    "value": "^green;Looking Good and Dressing Well"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^green;A l'air cool et s'habille bien"
+  }
+]

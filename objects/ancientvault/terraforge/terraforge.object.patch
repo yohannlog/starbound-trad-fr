@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Une ancienne machine massive. A quoi pourrait-il servir ?"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Cette ancienne machine bourdonne d'énergie mystérieuse."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Cette ancienne machine à l'air d'être opérationnelle."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ancccienne machine avec des étinccelles d'énergie."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Étonné. Cette machine est ancienne et fonctionne toujours."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Cette ancienne machine à l'air d'être alimenté d'une source mystérieuse en énergie."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Il y a de l'élégance dans le design de cette machine.. La personne qui l'a fabriquée est un professionnel."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Cette machine semble ancienne et semble toujours fonctionner."
+  }
+]

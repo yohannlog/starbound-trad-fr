@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/shortdescription", "value": "Glaive du Protecteur"}, {"op": "replace", "path": "/description", "value": "Une arme exp\u00e9rimentale puissante con\u00e7ue par le Protectorat."}, {"op": "replace", "path": "/altAbility/name", "value": "Autonomisation"}]

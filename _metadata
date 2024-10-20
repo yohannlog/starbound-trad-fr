@@ -1,0 +1,10 @@
+{
+  "version" : "1.2.2.8",
+  "tags" : "Miscellaneous|User Interface",
+  "author" : "yohannlog, Pyroblast, Furthick, Reotip, Shyning, Monavivi, etc...",
+  "description" : "--------------------------------------- Mod de Traductions Française-------------------------\nCe mod vous permet de profiter du jeux en version française. ATTENTION, il est toujours en 'Work In Progress' ce qui veut dire que il n'est pas tout à fait finis et que les mises a jours vont suivre. Précision: Certaine parties du jeux peuvent-être incompréhensible dû au type de texte, si il y a une partie qui reste flou ou mal traduit, merci de contacter: \"yohann.catherine@outlook.fr\" ou par steam (mp).  \nMise à jour 1.2.2.4:\n-\nMise à jour 1.2.2.3:\n- Ajout traduction manquante dans le menu de création de base spatiale\nMise à jour 1.2.2.2:\n- Traduction du message manquant dans le menu d'amélioration du Manipulateur de Matière\n- Traduction du menu pour le lancement d'une station spatiale\nMise à jour 1.2.2.1:\n- Traduction d'une partie du système de station spatiale\n- Corrections de quelques soucis avec les codex",
+  "name" : "Traductions FR",
+  "friendlyName" : "Traductions FR",
+  "steamContentId" : "729432886",
+  "link" : "steam://url/CommunityFilePage/729432886"
+}

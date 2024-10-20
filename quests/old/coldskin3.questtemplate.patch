@@ -1,0 +1,32 @@
+[
+  {
+    "op": "test",
+    "path": "/text",
+    "value": "I should ^green;talk to the ^orange;Floran Hunter^green; at the outpost^white; and see what they have to say for themselves."
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Je devrais ^green;parler \u00e0 la ^orange;Floran ^green; de l'avant-poste ^blanc; et voir ce qu'elle a \u00e0 dire."
+  },
+  {
+    "op": "test",
+    "path": "/completionText",
+    "value": "Oh... Floran did not expect to sssee you again. Trap? Floran jussst thought you'd enjoy it! Pleasse take thiss as an apology. It'ss a ^orange;bio-implant^white; that will let you sssurvive in the cold."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Oh... Floran ne vous attendez pas \u00e0 vous revoir de nouveau. Pi\u00e8ge? Floran juste pens\u00e9 que vous appr\u00e9cieriez! Prenez-ceci comme une excussse. C'est un ^orange implant de biome ^white; qui vous permettra de sssurvivre dans le froid."
+  },
+  {
+    "op": "test",
+    "path": "/title",
+    "value": "^orange;Asking Questions"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^orange;Quelques Questions..."
+  }
+]

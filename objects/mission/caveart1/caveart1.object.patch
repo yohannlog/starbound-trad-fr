@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un art avec la représentation de quelques animaux."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Art de Caverne Animal"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Peinture grossière d'un animal"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Cette peinture pourrait être aussi vieille que les étoiles."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Peinture peinte par de vieux Floransss."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Neutre. Cette peinture semble représenter des bêtes."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Cette peinture n'est pas aussi élégante que l'art Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Une très vieille peinture par les regards de celui-ci."
+  }
+]

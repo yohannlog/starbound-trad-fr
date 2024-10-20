@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/delete/caption", "value": "Supprimer"}, {"op": "replace", "path": "/cancel/caption", "value": "Annuler"}, {"op": "replace", "path": "/areYouSure/value", "value": "\u00cates-vous sur de vouloir \nsupprimer ce personnage?"}]

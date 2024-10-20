@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Un port auquel des pièces d'extension de station peuvent-être attachées"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Terminal d'Expansion"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ce port est utilisé pour ajouter des modules supplémentaires à une station spatiale."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ce terminal sert à gérer les modules d'extension de cette station."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Observateur. Ce type de terminal permet d'attacher une variété de modules intérieurs à la station."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Un terminal d'expansion, il y a un tas d'extensions disponible qui peuvent être attachés à la station."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ce terminal peut être utilisé pour agrandir l'intérieur de la station."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Certains ordinateurs sophistiqués peuvent rendre la station encore plus grande."
+  }
+]

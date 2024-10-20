@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Le minerai pour du violium raffinée se trouve sur les planètes d'une étoile gelée."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Violium Raffinée"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "Plan"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "<item>"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "D\u00e9bloque le plan de fabrication de <item> ."
+  }
+]

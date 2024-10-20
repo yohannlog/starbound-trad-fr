@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Localisez <spawnpoint>"}, {"op": "replace", "path": "/scriptConfig/objectives/2/text", "value": "Retournez voir <questGiver>"}, {"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Tuez <adjective> <enemy.name>"}]

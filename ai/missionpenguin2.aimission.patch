@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "L'armurier Biggy a besoin de ton aide."}, {"op": "replace", "path": "/speciesText/default/buttonText", "value": "Site d'Essais d'Armes"}, {"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Re-visiter le Site d'Essais d'Armes"}]

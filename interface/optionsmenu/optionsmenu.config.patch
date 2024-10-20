@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/musicLabel/value",
+    "value": "Musique"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/tutorialMessagesLabel/value",
+    "value": "MESSAGES DE TUTORIAUX"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/clientIPJoinableLabel/value",
+    "value": "CONNECTION PAR IP"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/clientP2PJoinableLabel/value",
+    "value": "MULTIJOUEUR PAR AMIS STEAM"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/backButton/caption",
+    "value": "Retour"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/acceptButton/caption",
+    "value": "Accepter"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/showKeybindings/caption",
+    "value": "Controles"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/showGraphics/caption",
+    "value": "Graphismes"
+  }
+]

@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Une armoire en bois solide."}, {"op": "replace", "path": "/humanDescription", "value": "Un meuble avec deux tiroirs."}, {"op": "replace", "path": "/glitchDescription", "value": "Neutre. Une quantit\u00e9 moyenne d'emplacement de stockage."}]

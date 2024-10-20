@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La raffinerie permet de transformer les minerais en pixels "
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Raffinerie^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "Transforme minerais en pixels"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Je peux mettre des minerais pour les transformer en pixels."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Faire des pixels avec des minerais. Utile."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Machine fracasssse roche, crée pixels."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Neutre. Les minerais peuvent-être convertis en pixels."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Il imprime des pixels! Sorte de..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Un dispositif complexe pour transformer des minerais en pixels."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Une machine à pixels. J'en ai toujours voulu un."
+  }
+]

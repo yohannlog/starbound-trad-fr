@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Votre poitrine est chaude, mais qu'en est-il de vos bras?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Pull Tricoté"
+  }
+]

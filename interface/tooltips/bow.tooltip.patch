@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/descriptionLabel/value", "value": "Utile pour r\u00e9cup\u00e9rer de la nourriture et d'autres objets sur les monstres."}, {"op": "replace", "path": "/maxDamageTitleLabel/value", "value": "D\u00e9g\u00e2ts Max :"}, {"op": "replace", "path": "/energyPerShotTitleLabel/value", "value": "\u00c9nergie Par Tir :"}]

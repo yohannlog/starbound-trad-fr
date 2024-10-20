@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Utilisé pour des outils d'excavations et des présentoirs."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Station de Fossiles^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": " Station de Fossiles"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": " Brosses pour fossiles et présentoirs"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Je peux faire des outils d'excavation de fossiles ici."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Une station d'artisanat ou je peux fabriquer des outils d'excavation de fossiles."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Étonné. Si cela permet de fabriquer des outils pour extraire des fossiles, je ne vais pas attendre."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Les outils de restauration de fossiles sont cool. Découvrons l'histoire des ces mondes !"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Pour extraire des fossiles et regardé dans le passé"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Je ne connais pas grand chose sur le passé. Mais peut-être que je pourrais apprendre avec ces outils."
+  }
+]

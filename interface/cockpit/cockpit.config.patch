@@ -1,0 +1,917 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": " Console de Navigation"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "^#b9b5b2; Sélectionnez votre déstination"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value",
+    "value": "Nom du favoris"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value",
+    "value": "Nom de la planète"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/ok/caption",
+    "value": "Accepter"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/remove/caption",
+    "value": "Supprimer"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/close/caption",
+    "value": "Retour"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/title/value",
+    "value": "Ajouter Favoris"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/name/hint",
+    "value": "Entrée le nom du favoris"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/jump/caption",
+    "value": "Saut"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/cancel/caption",
+    "value": "Retour"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/title/value",
+    "value": "Confirmez Propulsion"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/text/value",
+    "value": "Les propulseurs vont consommés ^green;%s carburants^reset;.\nConfirmez pour procédez."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/clusterinfo/children/inner/children/moons/value",
+    "value": "PLUSIEURS LUNES"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/clusterinfo/children/inner/children/view/caption",
+    "value": "INEXPLORÉ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/name/value",
+    "value": "OBJET SPATIAL"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/description/value",
+    "value": "CECI EST UN TRES OBJET SPATIAL"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/threat/value",
+    "value": "REQUIS UN MECH A DÉPLOYER"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/bookmark/caption",
+    "value": "AJOUTER FAVORIS"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/type/value",
+    "value": "TYPE D'ÉTOILE"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/name/value",
+    "value": "SYSTEME"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value",
+    "value": "TYPE DE PLANETE"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/view/caption",
+    "value": "INEXPLORÉ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/name/value",
+    "value": "CECI EST UNE PLANETE"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/description/value",
+    "value": "DESCRIPTION DE LA PLANETE"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/threatLabel/value",
+    "value": "Menace: "
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/ores/value",
+    "value": "Analyse Géologique"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/weather/value",
+    "value": "Météo"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/bookmark/caption",
+    "value": "AJOUTER FAVORIS"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/disabledLabel/value",
+    "value": "NAVIGATION HORS LIGNE"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/transitLabel/value",
+    "value": "VAISSEAU EN DÉPLACEMENT"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systemName/value",
+    "value": "NOM DU SYSTEME"
+  },
+  {
+    "op": "replace",
+    "path": "/planetInfoBox/bookmarkButtonCaption/add",
+    "value": "AJOUTER FAVORIS"
+  },
+  {
+    "op": "replace",
+    "path": "/planetInfoBox/bookmarkButtonCaption/edit",
+    "value": "ÉDITEZ FAVORIS"
+  },
+  {
+    "op": "replace",
+    "path": "/planetInfoBox/bookmarkButtonCaption/disabled",
+    "value": "IMPOSSIBLE D'AJOUTER EN FAVORIS"
+  },
+  {
+    "op": "replace",
+    "path": "/clusterInfoBox/viewButtonCaption/enabled",
+    "value": "REGARDER"
+  },
+  {
+    "op": "replace",
+    "path": "/clusterInfoBox/viewButtonCaption/disabled",
+    "value": "INEXPLORÉ"
+  },
+  {
+    "op": "replace",
+    "path": "/objectInfoBox/bookmarkButtonCaption/add",
+    "value": "AJOUTER "
+  },
+  {
+    "op": "replace",
+    "path": "/objectInfoBox/bookmarkButtonCaption/edit",
+    "value": "EDITER FAVORIS"
+  },
+  {
+    "op": "replace",
+    "path": "/objectInfoBox/bookmarkButtonCaption/disabled",
+    "value": "IMPOSSIBLE D'AJOUTER EN FAVORIS"
+  },
+  {
+    "op": "replace",
+    "path": "/objectInfoBox/bookmarkButtonCaption/unexplored",
+    "value": "INEXPLORÉ"
+  },
+  {
+    "op": "replace",
+    "path": "/systemInfoBox/viewButtonCaption/enabled",
+    "value": "REGARDER"
+  },
+  {
+    "op": "replace",
+    "path": "/systemInfoBox/viewButtonCaption/disabled",
+    "value": "INEXPLORÉ"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/garden/0",
+    "value": "Le site d'atterrissage est très^#76fe68; luxuriant^white;. La faune et la flore sont très abondates ici. L'emplacement est d'une sécurité incommensurable."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/garden/1",
+    "value": "Le site d'atterrissage est situé dans une zone tranquille avec de la biodiversité. Il y a beaucoup de resources utiles."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/garden/2",
+    "value": "Readings indicate the landing site is not unfavourable - the area is safe, and lavish with both flora and fauna. Une terre ^#76fe68;luxuriante^white; et agréable."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/forest/0",
+    "value": "Densément colonisé par les arbres et la flore. Ce site d'atterrissage en ^#15ce02;forêt^white; contient une grande diversité de vie - y compris la vôtre."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/forest/1",
+    "value": "Les arbres feuillus abondent dans cet emplacement de ^#15ce02;forêt^white;. La zone est accueillante, ma base de donnée indique que vous pouvez rencontrez les créatures des bois."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/forest/2",
+    "value": "Le site d'atterrissage se trouve dans une ^#15ce02;forêt^white;. Mes capteurs indiquent que cette zone boisée est relativement tranquille."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/desert/0",
+    "value": "La flore est très limité ici, mais l'endroit supporte la vie. Il y a une abondance de sable. En termes simples, c'est un ^#e6c801;désert;^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/desert/1",
+    "value": "Un ^#e6c801;désert^white; peuplé par des cactus ainsi que diverses vies animales. Un site d'atterrissage relativement sécurisé tant que vous évitez les tempêtes de sable."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/desert/2",
+    "value": "Mes capteurs indiquent qu'il y a beaucoup de sable... et de cactus... mais surtout du sable. Je suppose que le site d'atterissage se trouve dans un ^#e6c801;désert^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/snow/0",
+    "value": "Ce site d'atterrissage est remplis de ^#69f1fd;neige^white;. Les arbres poussent ici et divers animaux prospèrent également dans de froides conditions. Un excellemment endroit pour les boules de neige."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/snow/1",
+    "value": "Le site d'atterrissage est froid, mais pas dangereuse. La ^#69f1d;neige^white; couvre la zone et les blizzards peuvent apparaître. Un chapeau et des gants sont recommandés."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/snow/2",
+    "value": "Cet endroit est relativement frais et la ^#69f1fd;neige^white; repose profondément sur le sol. Mes capteurs indiquent que des créatures se faufilent dans la neige."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/savannah/0",
+    "value": "Le site d'atterrissage est situé dans une ^#ffe21d;prairie sèche^white; sujet aux tempête de poussières. Ceci n'est pas très agréable, ni particulièrement dangereux."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/savannah/1",
+    "value": "Cette ^#ffe21d;prairie sèche^white; est peuplée de quelques arbres. Il n'est pas inhospitalier - mes capteurs indiquent qu'il y a un lièvre qui rebondit."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/savannah/2",
+    "value": "Le lieu d'atterrissage se situe dans une ^#ffe21d;prairie sèche^white;. Les arbres et les arbustes poussent peu sous la chaleur. Un endroit chaleureux avec de beaux panoramas."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/ocean/0",
+    "value": "Une planète avec de profonds ^#0008aff;océans^white;. mes capteurs indiquent que la vie aquatique est abondante et que les îlots à la surface sont extrêmement petites."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/ocean/1",
+    "value": "Une planète ^#008aff;océanique^white; tacheté d'îles et grouillante de vie. Mes capteurs indiquent qu'il y a beaucoup d'activité dans les profondeurs des eaux."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/ocean/2",
+    "value": "Des îles désertes sont à la surface de cette planète ^#0008aff;océanique^white;. Un environnement tropicale et esthétique."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/toxic/0",
+    "value": "Cette planète est ^#06ff00;toxic^white; - l'air est putréfié et les océans sont toxiques. ^red;Les radiations sont très élevées^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/toxic/1",
+    "value": "Cette planète ^red;autement radioactive^white; est un endroit vénéneux habité par des formes de vie irradiées. La surface est ^#06ff00;toxique^white;. Une déstination peu attirante"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/toxic/2",
+    "value": "Cette planète est ^#06ff00;toxique^white;  couplé avec des ^red;radiations^white;. les océans sont très toxiques... Puis-je vous rappeler que d'autres destinations sont possibles."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/jungle/0",
+    "value": "Le site d'atterrissage contient une dense ^#12a003;jungle^white;. Il y a quelques créatures stupéfiantes qui y vit. Malheuresement, il y a beaucoup de ^red;radiations^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/jungle/1",
+    "value": "Une ^#12a003;jungle^white; densément habité par la faune et la flore. Cette endroit est riche en ressources ^red;phénoménalement haut en radiations^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/jungle/2",
+    "value": "Les ^red;radiations^white; rendent cette ^#12a003;jungle^white; extrêmement hostile et dangereux. La faune locale est également peu accueillante."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/alien/0",
+    "value": "C'est un site d'atterrissage quelque peu risqué. Le ^red;niveau de radiation est très élevée^white;. Cependant "
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/alien/1",
+    "value": "Un site d'atterrissage caractérisé par une flore étrange, une faune agressive et ^red;un niveau de radiation élevé^white;. Les habitants de la zone ont ^#7800ff;mutés^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/alien/2",
+    "value": "Le site d'atterrissage est situé dans un paysage ^#7800ff;muté^white;. Le ^red;niveau de radiation est élevé^white; Je vous conseille d'éviter de nager."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arctic/0",
+    "value": "^red;Les températures du site d'atterrissage sont dangereusement basses,white;. Il y a un énorme ^#00ffe4;océan glacial^white; avec quelques îles. Je vous conseille de porter un foulard."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arctic/1",
+    "value": "Le site d'atterrissage est ^red;intensément froid^white;: sur une île dans un ^#00ffe4;océan glaciale^white;. Il y a 0.025% de chance que vous vous égarez dans l'eau succombant au froid."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arctic/2",
+    "value": "Un emplacement ^red;dangereusement froid^white;. Il y a peu d'animauxet aucune vie végétale - juste des îles abandonnées dans un ^#00ffe4;océan glaciale^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/tundra/0",
+    "value": "Un emplacement ^#61ffe3;congelé^white;. Les tempêtes de neiges sont communes et les ^red;températures sont dangereusement froid^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/tundra/1",
+    "value": "Ce site d'atterrissage est ^red;dangereusement froid.^white; et ^#61ffe3;congelé^white;. Forte probabilité d'auto-cryoconservation accidentelle. Protégez-vous du froid."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/tundra/2",
+    "value": "Les ^red;températures sur le site d'atterrissage sont extrêmement basses^white;. L'emplacement est ^#61ffe3;gelé^white; et habité par la faune et la flore résistante aux froid."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/volcanic/0",
+    "value": "Le site d'atterrissage est ^#e11212;volcanique^white; et ^red;extrêmement chaud^white;. Si vous voulez, je peux calculer votre probabilité d'éclater immédiatement dans le faisceau de téléportation."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/volcanic/1",
+    "value": "Les activités^#e11212;volcaniques^white; affaiblit la planète. La ^red;température est bien au-delà des niveaux normalement survivables ^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/volcanic/2",
+    "value": "Le site d'atterrissage est situé en zone ^#e11212;volcanique^white; et il y fait ^red;exquisement chaud^white;. Notre intérêt pour cet endroit montre notre ténacité."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/midnight/0",
+    "value": "Ceci est un monde plongé dans le ^#e11212;noir^white; ou le soleil ne brille pas. La surface est ^red;dangereusement froide^white;. Vous devriez vous préparer mentalement et physiquement avant d'atterrir ici."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/midnight/1",
+    "value": "Ce ^#e11212;sombre^white;monde est ^red;dangereusement froid^white;. D'étranges figures habitent ici, cachées dans la nuit éternelle."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/midnight/2",
+    "value": "Les scannes montrent que la surface est  ^#e11212;très sombre^white;. En fait, les scannes ne montrent rien d'autre à cause de l'obscurité. Cependant je suppose que la surface est ^red;extrêmement froide^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/scorchedcity/0",
+    "value": "L'emplacement d'atterrissage est une terre en friche ^#b24301;roussie^white;. La température atmosphérique ^red;est dangereusement élevée^white;. C'est extrêmement courageux de votre part d'envisager cette destination."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/scorchedcity/1",
+    "value": "L'emplacement d'atterrissage est une terre en friche ^#b24301;roussie^white;. Peu est capable de survivre ici à cause de la ^red;température fatalement élevée^white; Des personnes vivent dans la région, je ne comprend pas pourquoi."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/scorchedcity/2",
+    "value": "L'emplacement d'atterrissage est une terre en friche avec une ^red;température intense ^white;. Seuls quelques individus robustes résistent à ces températures."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/magma/0",
+    "value": "Cette planète ^red;dangereusement chaude^white;  est principalement composé de ^#ff1818;magma^white;. Rappelez-vous, votre esprit est admirable mais elle n'est pas invincible."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/magma/1",
+    "value": "La surface de la planète est ^red;dangereusement chaud^white;. Peu de créatures vivent une existence entre les vastes océans de ^#ff1818;magma^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/magma/2",
+    "value": "Le site d'atterrissage est une toute petite île isolée dans l'océan de ^#ff1818;magma^white;. Vous avez du courage pour allez sur cette planète ^red;extrémement chaude^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/moon/0",
+    "value": "Une ^#949493;lune^white; avec ^red;aucun atmosphère respirable^white;; le ciel est ouvert aux étoiles, il y a aussi du carburant dans le sol. Probabilité de se sentir seul et désolé à 92%."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/moon/1",
+    "value": "Cette ^#949493;lune^white; ne supporte pas la vie car ^red;il n'y a pas d'atmosphère respirable^white;. Par contre, il y a beaucoup de carburant."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/moon/2",
+    "value": "Cette ^#949493;lune^white; ^red;n'a pas d'atmosphère respirable^white;, mais on y trouve beaucoup de carburant. En résumé: utile, mais pas alléchant."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/asteroids/0",
+    "value": "Une barrière d'^#d7711e;asteroides^white;. Mes scannes indiquent qu'il ^red;n'y a pas d'atmosphère respirable^white; ou de vie. Il n'y a rien à faire a part construire."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/asteroids/1",
+    "value": "Un groupe d'^#d7711e;astéroides^white; ^red;sans atmosphère respirable^white;: dérivant dans l'espace. Un bel endroit pour construire une maison"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/asteroids/2",
+    "value": "De vastes champs d' ^#d7711e;astéroides^white; dérivant le long de l'orbite. Mes scannes indiquent que ^red; l'atmosphère n'est pas réspirable^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/barren/0",
+    "value": "Cette emplacement est ^#999966;stérile^white; et sans vie. Mes scannes ne révèlent rien. En endroit très vide."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/barren/1",
+    "value": "Cette planète est ^#999966;stérile^white;, Il n'y a vraiment rien dessus, croyez-moi !!"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/barren/2",
+    "value": "Mes scannes indiquent que le site d'atterrissage est d'une teinte inhabituelle. Aussi, elle est ^#999966;stérile^white;, parfait pour construire tranquillement."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/ancientgateway/0",
+    "value": "Un ^#571cff;Ancien Portail^white; d'une provenance inconnue; un édifice puissant mais remplis de mystère."
+  },
+  {
+    "op": "replace",
+    "path": "/terraformedPlanetDescription/0",
+    "value": "Cette planète a été altérée au-delà de la reconnaissance par la terraformation."
+  },
+  {
+    "op": "replace",
+    "path": "/terraformedPlanetDescription/1",
+    "value": "Le terraforming a rendu cette planète sûre pour l'habitation, bien que l'apparence ne sois pas naturelle"
+  },
+  {
+    "op": "replace",
+    "path": "/terraformedPlanetDescription/2",
+    "value": "Le climat et les écosystèmes ont été considérablement modifiés par la terraformation"
+  },
+  {
+    "op": "replace",
+    "path": "/worldTypeDescription/GasGiant/0",
+    "value": "Une boule géante de gaz s'entremêlant les uns avec les autres. Il n'y a simplement rien pour atterir."
+  },
+  {
+    "op": "replace",
+    "path": "/worldTypeDescription/GasGiant/1",
+    "value": "Une boule de gaz géante. Il n'y a pas de substance solide sur cette planète, juste du gaz tourbillonants."
+  },
+  {
+    "op": "replace",
+    "path": "/worldTypeDescription/GasGiant/2",
+    "value": "Impossible d'atterrir. La pression et les vents de ce géant gazeux vous tueraient instantanément. "
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/0",
+    "value": " Faible"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/1",
+    "value": " Modéré"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/2",
+    "value": " Risqué"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/3",
+    "value": " Dangereux"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/4",
+    "value": " Extrème"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/5",
+    "value": "Inconcevable"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/6",
+    "value": "Irréel"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/moon/0",
+    "value": "Inconnu"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/copper/displayName",
+    "value": "Cuivre"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/silver/displayName",
+    "value": "Argent"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/gold/displayName",
+    "value": "Or"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/iron/displayName",
+    "value": "Fer"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/tungsten/displayName",
+    "value": "Tungstène"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/erchius/displayName",
+    "value": "Carburant de Crystaux d'Erchius"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/rain/displayName",
+    "value": "Pluie"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/drizzle/displayName",
+    "value": "Pluie Fine"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/storm/displayName",
+    "value": "Tempêtes"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/ember/displayName",
+    "value": "Pluie de Cendres"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/snow/displayName",
+    "value": "Neige"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/fog/displayName",
+    "value": "Brouillard"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/meteorshower/displayName",
+    "value": "Petites Météorites"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/largemeteor/displayName",
+    "value": "Larges Météorites"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/glowingrain/displayName",
+    "value": "Pluie Luminescente"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/crystalrain/displayName",
+    "value": "Pluie de Crystaux"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/hailstones/displayName",
+    "value": "Grèle"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/groundmist/displayName",
+    "value": "Brume"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/windstorm/displayName",
+    "value": "Rafales de Vent"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/spacejunk/displayName",
+    "value": "Débris Orbitaux"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/spacedustshower/displayName",
+    "value": "Poussières d'Étoiles"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/sandstorm/displayName",
+    "value": "Tempête de Sable"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/duststorm/displayName",
+    "value": "Tempête Poussiéreuse"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/icestorm/displayName",
+    "value": "Tempête de Glace"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/acidrain/displayName",
+    "value": "Pluie d'Acide"
+  },
+  {
+    "op": "replace",
+    "path": "/clusterMoons/none",
+    "value": "Aucune orbite"
+  },
+  {
+    "op": "replace",
+    "path": "/clusterMoons/singular",
+    "value": "Un corps en orbite"
+  },
+  {
+    "op": "replace",
+    "path": "/clusterMoons/plural",
+    "value": "%s corps en orbites"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/garden",
+    "value": "Luxuriant"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/forest",
+    "value": "Forêt"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/desert",
+    "value": "Désert"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/snow",
+    "value": "Enneigée"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/savannah",
+    "value": "Savane"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/ocean",
+    "value": "Océanique"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/toxic",
+    "value": "Toxique"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arctic",
+    "value": "Arctique"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/tundra",
+    "value": "Toundra"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/volcanic",
+    "value": "Volcanique"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/midnight",
+    "value": "Sombre"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/scorchedcity",
+    "value": "Roussie"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/magma",
+    "value": "Lave"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/moon",
+    "value": "Lune"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/asteroids",
+    "value": "Astéroïdes"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/barren",
+    "value": "Stérile"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/ancientgateway",
+    "value": "Portail"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/default",
+    "value": "Étoile Mystérieuse"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/whitestar",
+    "value": "Étoile Douce"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/orangestar",
+    "value": "Étoile Tempérée"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/yellowstar",
+    "value": "Étoile Radioactive"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/bluestar",
+    "value": "Étoile Gelée"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/redstar",
+    "value": "Étoile Brulante"
+  },
+  {
+    "op": "replace",
+    "path": "/bookmarks/newTitle",
+    "value": "NOUVEAU FAVORIS"
+  },
+  {
+    "op": "replace",
+    "path": "/bookmarks/editTitle",
+    "value": "EDITER FAVORIS"
+  },
+  {
+    "op": "replace",
+    "path": "/jumpDialog/valid",
+    "value": "Les propulseurs vont consommés ^green;%i carburants^reset;.\nConfirmez pour procéder."
+  },
+  {
+    "op": "replace",
+    "path": "/jumpDialog/invalid",
+    "value": "Le trajet en propulseur demande ^red;%i carburants^reset;.\n Il n'y a pas assez de carburant."
+  },
+  {
+    "op": "replace",
+    "path": "/topLeftButtonTooltips/showBookmarkList",
+    "value": "Favoris"
+  },
+  {
+    "op": "replace",
+    "path": "/topLeftButtonTooltips/goToShip",
+    "value": "Voir le vaisseau"
+  },
+  {
+    "op": "replace",
+    "path": "/topLeftButtonTooltips/goToQuest",
+    "value": "Voir localisation de la quête"
+  },
+  {
+    "op": "replace",
+    "path": "/topLeftButtonTooltips/showCoordinates",
+    "value": "Coordonnées"
+  },
+  {
+    "op": "replace",
+    "path": "/threatTextPrefix",
+    "value": "^white;Menace: ^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/unavailable",
+    "value": "REQUIS UN MECH A DÉPLOYER"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/available/0",
+    "value": "Aucune"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/available/1",
+    "value": "Faible"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/available/2",
+    "value": "Modérée"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/available/3",
+    "value": "Dangereux"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/available/4",
+    "value": "Extrème"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/friendly",
+    "value": "Aucune"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTooltip/exploredLabel/explored",
+    "value": "VISITÉ"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTooltip/exploredLabel/unexplored",
+    "value": "INEXPLORÉ"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTooltipConfig/type/value",
+    "value": "Étoile Douce"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTooltipConfig/explored/value",
+    "value": "INEXPLORÉ"
+  }
+]

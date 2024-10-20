@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Sucré, maïs jaune"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Graine de Blé"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Du blé. Encore une autre nourriture qui ressemble à une banane, mais qui ne l'est pas."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Piquer sur un épi de maïs fait une excellente collation."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Du Maïsss jaune dur, cuire et ca va POP !"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Sceptique. On prétend que si le Glitch mange du maïs, il apparaîtra en nous."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Un approvisionnement régulier de maïs doux et une chose merveilleuse."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Un casse-croûte sans saveur et sans mérite."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "La maïs peut-être apprécié sous plusieurs formes."
+  }
+]

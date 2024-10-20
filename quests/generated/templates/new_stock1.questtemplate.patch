@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/scriptConfig/objectives/0/text", "value": "Donnez <tradeItems> \u00e0 <target>"}, {"op": "replace", "path": "/scriptConfig/objectives/1/text", "value": "Retournez voir <questGiver>"}]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Transforme le climat de la planète en une forêt."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Terraformer Boisé"
+  }
+]

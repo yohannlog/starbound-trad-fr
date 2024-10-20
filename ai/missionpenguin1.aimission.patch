@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/speciesText/default/selectSpeech/text", "value": "Le propri\u00e9taire du Beak Easy a besoin d'aide. Tu dois vaincre Dreadwing."}, {"op": "replace", "path": "/speciesText/default/buttonText", "value": "Dreadwing"}, {"op": "replace", "path": "/speciesText/default/repeatButtonText", "value": "Re-d\u00e9fier Dreadwing"}]

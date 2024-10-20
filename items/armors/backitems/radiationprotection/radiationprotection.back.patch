@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/description", "value": "Cette mise \u00e0 jour ajoute la neutralisation des radiations \u00e0 votre APE. Utilisez-le sur les plan\u00e8tes ayant un ^red;fort taux de radiations^reset;."}, {"op": "replace", "path": "/shortdescription", "value": "Mise \u00e0 jour APE de radiation"}]

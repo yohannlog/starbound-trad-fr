@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Transforme le climat de la planète en un désert de sable."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Terraformer Sablonneux"
+  }
+]

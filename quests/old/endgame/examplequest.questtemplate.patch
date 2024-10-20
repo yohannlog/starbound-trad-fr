@@ -1,0 +1,32 @@
+[
+  {
+    "op": "test",
+    "path": "/text",
+    "value": "Example quest text."
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Exemple de texte de qu\u00eate."
+  },
+  {
+    "op": "test",
+    "path": "/completionText",
+    "value": "Example completion text."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Exemple de texte de r\u00e9ussite."
+  },
+  {
+    "op": "test",
+    "path": "/title",
+    "value": "^#9be3d6;Test Quest"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^#9be3d6;Qu\u00eate de test"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Une lumière murale rouge élegante."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Lampe de Laboratoire"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Cette lampe conçue par le Miniknog fonctionne même à faible puissance."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Lumière donne envie à Floran d'allez au combat."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Impressionné. C'est une lampe économe en énergie."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Cette lampe émet une lueur rouge et chaude. C'est un peu désagréable."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Cette lumière utilise très peu d'énergie. Contrairement au Miniknog, il n'est pas écologique."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Brille rouge comme un soleil mourant."
+  }
+]

@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/lblText/value", "value": "^#b9b5b2;Placer un minerai dans l'emplacement \u00e0 gauche pour le raffiner et obtenir des pixels."}, {"op": "replace", "path": "/gui/toggleCrafting/caption", "value": "Raffiner"}]

@@ -1,0 +1,1 @@
+[{"op": "replace", "path": "/gui/windowtitle/subtitle", "value": "Activ\u00e9 avec une Cl\u00e9 Ancienne"}, {"op": "replace", "path": "/gui/costLabel/value", "value": "0 / --"}, {"op": "replace", "path": "/gui/costDescription/value", "value": "CL\u00c9 ANCIENNE"}, {"op": "replace", "path": "/gui/windowtitle/title", "value": "Console de Sanctuaire"}]

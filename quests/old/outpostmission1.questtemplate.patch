@@ -1,0 +1,32 @@
+[
+  {
+    "op": "test",
+    "path": "/text",
+    "value": "A visit to the Erchius mining facility might be just what I need to ^green;fix my FTL drive^white;. The distress signal and coordinates have been copied to ^green;S.A.I.L's mission tab. The bio-implant I was given will allow me to survive the atmosphere at the facility."
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Une visite \u00e0 l'installation mini\u00e8re d'Erchius pourrait s\u00fbrement \u00eatre ce dont j'ai besoin pour ^green;r\u00e9parer mon moteur FTL^white;. Le signal de d\u00e9tresse et les coordonn\u00e9es ont \u00e9t\u00e9 copi\u00e9es dans ^green;l'onglet des missions du S.A.I.L. L'implant biologique que l'on m'a donn\u00e9 me permettra de survive \u00e0 l'atmosph\u00e8re de l'installation mini\u00e8re."
+  },
+  {
+    "op": "test",
+    "path": "/completionText",
+    "value": "I've finally got the crystals I need to fix my ship's FTL drive. I should talk to S.A.I.L."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "J'ai enfin r\u00e9cup\u00e9r\u00e9 les cristaux dont j'avais besoin pour r\u00e9parer le moteur FTL de mon vaisseau. Je devais parler au S.A.I.L."
+  },
+  {
+    "op": "test",
+    "path": "/title",
+    "value": "^orange;Erchius Mining Facility"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^orange;Installation mini\u00e8re d'Erchius"
+  }
+]
